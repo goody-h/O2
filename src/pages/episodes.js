@@ -129,7 +129,7 @@ class Episodes extends Component {
                 ep = "0" + ep;
             }
 
-            var s = "http://d" + d + ".tvshows4mobile.com/" + m + "/Season%20" + se + "/" + m + "%20-%20S" + se + "E" + ep + "%20(" + o + ").mp4"
+            var s = "http://d" + d + ".o2tv.org/" + m + "/Season%20" + se + "/" + m + "%20-%20S" + se + "E" + ep + "%20(" + o + ").mp4"
 
             eps.push(s)
         }
